@@ -1,7 +1,7 @@
-# doingoperationswithyamlfile
+# Operations in vim editor
 
 
-# Deletion Operations in yaml
+# Deletion Operations in vim editor
 
 <img width="927" height="452" alt="image" src="https://github.com/user-attachments/assets/4006a9f3-3010-48f3-9ffc-694136cc3a4e" />
 
