@@ -17,3 +17,14 @@ Undo
 Redo
 
        Ctrl+r
+
+Replace file content with another file content
+
+    cat source.txt > destination.txt
+
+Empty the file content
+
+     > filename.txt
+
+
+    
